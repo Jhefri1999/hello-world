@@ -18,22 +18,3 @@
     </div>
     </body>
 </html>
-        
-CSS
-body {
- background-image: url(http://www.nationalturk.com/en/wp-content/uploads/2013/05/Neymar-Transfer-Barcelona.jpg)
-}
-h1{
-    color: blueviolet;
-    text-align: center
-}
-h2{
-    color: red
-    text-align: left
-}
-img{
-    perspective-origin: right
-}
-p{
-    color: cyan
-}
