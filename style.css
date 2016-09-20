@@ -1,17 +1,22 @@
 body {
- background-image: url(http://www.nationalturk.com/en/wp-content/uploads/2013/05/Neymar-Transfer-Barcelona.jpg)
+ background-image: url(http://cdn-s3.si.com/s3fs-public/images/2014-0608-Neymar.jpg)
 }
 h1{
     color: blueviolet;
     text-align: center
 }
 h2{
-    color: red
-    text-align: left
+    align-content: center
 }
 img{
     perspective-origin: right
 }
 p{
     color: cyan
+}
+ol{
+    color: black
+}
+h1{
+    align-content: center
 }
