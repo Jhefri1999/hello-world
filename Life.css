@@ -1,5 +1,23 @@
 body{
-    background-color: aquamarine;
+   background-image: url(http://www.slitheriomods.com/wp-content/uploads/2016/04/rsz_wood_bg.png)
+}
+p{
     font-family: cursive;
+    padding-bottom: 30px;
+    margin-left: inherit;
+    color: orange;
+    font-size: 18px;
     
+}
+#cf{
+    text-align: center;
+    margin-bottom: auto
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.neymar{
+    text-align: center;
+    margin-left: auto
 }

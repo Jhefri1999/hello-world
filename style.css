@@ -3,27 +3,36 @@ body {
 }
 h1{
     color: blueviolet;
-    text-align: center
+    text-align: center;
 }
 img{
-    perspective-origin: right
+    perspective-origin: right;
+    margin: auto;
 }
 p{
-    color: yellow
+    color: chartreuse;
 }
 ol{
-    color: yellow
+    color: chartreuse;
+    font-family: cursive
 }
 iframe{
     display: block;
     margin: auto;
     width: 90%;
+    
 }
 h3{
     color: fuchsia;
     
 }
-
-
-
-
+h3{
+    text-align: center;
+}
+.container{
+    font-family: cursive
+}
+.papas{
+    height: 100px;
+    width: 1000px;
+}
