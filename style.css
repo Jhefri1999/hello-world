@@ -1,8 +1,10 @@
 body {
- background-image: url(http://cdn-s3.si.com/s3fs-public/images/2014-0608-Neymar.jpg)
+ background-image: url(https://images.freecreatives.com/wp-content/uploads/2016/04/Creative-Plain-Smoke-Background.jpg)
 }
 h1{
     color: blueviolet;
+    text-align: center;
+    color: fuchsia;
     text-align: center;
 }
 img{
@@ -14,20 +16,14 @@ p{
 }
 ol{
     color: chartreuse;
-    font-family: cursive
+    font-family: cursive;
+    margin: 50px;
 }
 iframe{
     display: block;
-    margin: auto;
+    margin: 50px;
     width: 90%;
     
-}
-h3{
-    color: fuchsia;
-    
-}
-h3{
-    text-align: center;
 }
 .container{
     font-family: cursive
@@ -36,3 +32,30 @@ h3{
     height: 100px;
     width: 1000px;
 }
+a:link {
+    font-family: fantasy;
+    background-color: black;
+    font-size: 20px;
+    padding: 0px 10px;
+    word-spacing: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

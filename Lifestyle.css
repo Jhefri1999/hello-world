@@ -1,5 +1,21 @@
 body{
     background-image: url(http://vignette3.wikia.nocookie.net/slitherio/images/5/50/Wiki-background/revision/latest?cb=20160425074249)
 }
+p{
+    color: green;
+    font-family: cursive;
+    font-size: 20px;
+    padding: inherit;
+    margin: auto;
+    
+}
 
-
+h1{
+    color: darkorange
+}
+.img{
+    align-content: center;
+}
+.container{
+    text-align: center
+}
