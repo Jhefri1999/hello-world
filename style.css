@@ -13,6 +13,8 @@ img{
 }
 p{
     color: chartreuse;
+    font-size: 20px;
+    
 }
 ol{
     color: chartreuse;
@@ -39,23 +41,5 @@ a:link {
     padding: 0px 10px;
     word-spacing: normal;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
