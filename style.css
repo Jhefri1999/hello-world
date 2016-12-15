@@ -1,30 +1,29 @@
 body {
- background-image: url(https://images.freecreatives.com/wp-content/uploads/2016/04/Creative-Plain-Smoke-Background.jpg)
+ background-image: url(https://31.media.tumblr.com/e201ebb7cc103c1a4ac7c2cc1aceef18/tumblr_inline_nk1m65OvU21s9yrmw.jpg )
 }
 h1{
-    color: blueviolet;
     text-align: center;
-    color: fuchsia;
-    text-align: center;
+    background-color: aqua;
 }
 img{
-    perspective-origin: right;
+    text-align: left;
     margin: auto;
 }
 p{
-    color: chartreuse;
-    font-size: 20px;
+    color: #60FF58;
+    font-size: 25px;
     
 }
-ol{
-    color: chartreuse;
+ol {
+	color: #60FF58;
     font-family: cursive;
-    margin: 50px;
+    margin: 100px;
+    font-size: 20px;
 }
 iframe{
     display: block;
-    margin: 50px;
-    width: 90%;
+    margin: auto;
+    width: 70%;
     
 }
 .container{
@@ -41,6 +40,7 @@ a:link {
     padding: 0px 10px;
     word-spacing: normal;
 }
-img{
-    
+h2{
+    background-color: darkturquoise;
+    text-align: left;
 }

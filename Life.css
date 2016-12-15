@@ -5,8 +5,8 @@ p{
     font-family: cursive;
     padding-bottom: 30px;
     margin-left: inherit;
-    color: orange;
-    font-size: 18px;
+    color: #3CAF72;
+    font-size: 23px;
     
 }
 #cf{
@@ -15,9 +15,12 @@ p{
 }
 h1{
     text-align: center;
-    color: white;
+    background-color: #7DAF3A;
 }
 .neymar{
     text-align: center;
     margin-left: auto
+}
+.carousel{
+    background-color: black
 }

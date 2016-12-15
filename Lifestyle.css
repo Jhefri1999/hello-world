@@ -2,9 +2,9 @@ body{
     background-image: url(http://vignette3.wikia.nocookie.net/slitherio/images/5/50/Wiki-background/revision/latest?cb=20160425074249)
 }
 p{
-    color: green;
+    color: #0F965D;
     font-family: cursive;
-    font-size: 18px;
+    font-size: 25px;
     padding: inherit;
     margin: auto;
     
@@ -13,10 +13,16 @@ p{
     text-align-last: center
 }
 h1{
-    color: darkorange
+    background-color: #33BB59;
+    text-align: center;
 }
 img{
     display: block;
     margin: auto;
-    
+    position: relative;
+    left: 0;
+    top: 0;
+}
+h2{
+    background-color: #009645
 }
